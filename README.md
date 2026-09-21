@@ -29,11 +29,7 @@
 
 ## 🚀 Мой проект
 
-[![Zapret GUI](https://img.shields.io/badge/GitHub-zgui-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IECL1PS3I/zgui)
-
 **Zapret GUI** — портативная графическая оболочка для Windows к движку Flowseal (winws): стратегии, тесты, обновления, DNS, Telegram-прокси. Один exe, данные рядом с программой.
-
-[![Скачать](https://img.shields.io/badge/Скачать-1.2.0-3399ff?style=for-the-badge)](https://github.com/IECL1PS3I/zgui/releases)
 
 ---
 
