@@ -4,9 +4,11 @@
 
 **Вайбкодер с простыми, но нужными идеями программ — и реализующий их только благодаря прогрессу ИИ.**
 
-<img src="https://img.shields.io/badge/Фон-252525?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Акцент-3399ff?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Текст-FFFFFF?style=for-the-badge&logoColor=black">
+<div align="center">
+<img src="https://placehold.co/300x6/252525/252525.png" width="100" height="6">
+<img src="https://placehold.co/300x6/3399ff/3399ff.png" width="100" height="6">
+<img src="https://placehold.co/300x6/FFFFFF/FFFFFF.png" width="100" height="6">
+</div>
 
 </div>
 
