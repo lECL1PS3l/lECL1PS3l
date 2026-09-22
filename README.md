@@ -27,23 +27,8 @@
 
 ---
 
-## 🚀 Мой проект
+## 💖 Поддержать проекты
 
-**Zapret GUI** — портативная графическая оболочка для Windows к движку Flowseal (winws): стратегии, тесты, обновления, DNS, Telegram-прокси. Один exe, данные рядом с программой.
-
----
-
-## 🛠 Стек
-
-![Rust](https://img.shields.io/badge/Rust-252525?style=flat-square&logo=rust&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-252525?style=flat-square&logo=tauri&logoColor=3399ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-252525?style=flat-square&logo=javascript&logoColor=FFFFFF)
-![Vite](https://img.shields.io/badge/Vite-252525?style=flat-square&logo=vite&logoColor=3399ff)
-
----
-
-## 💖 Поддержать проект
-
-Проект бесплатный и открытый (MIT). Донаты — добровольная поддержка, они ничего не «разблокируют» и не влияют на доступ к функциям.
+Проекты бесплатные и открытые (MIT). Донаты — добровольная поддержка, они ничего не «разблокируют» и не влияют на доступ к функциям.
 
 [![DonationAlerts](https://img.shields.io/badge/DonationAlerts-Поддержать-F57C00?style=for-the-badge&logo=donationalerts&logoColor=white)](https://www.donationalerts.com/r/lecl1ps3l)
